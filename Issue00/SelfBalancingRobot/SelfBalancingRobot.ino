@@ -1,6 +1,6 @@
     ////////////////////////////////////////////////////////
-   //          Arduino Self-Balancing Robot              //             
-  //                By Arnov Sharma - 2021              //
+   //            Arduino Self-Balancing Robot            //             
+  //               By Arnov Sharma - 2021               //
  //        Tech Nuttiez Magazine - Pre-Launch Issue    //
 ////////////////////////////////////////////////////////
 
