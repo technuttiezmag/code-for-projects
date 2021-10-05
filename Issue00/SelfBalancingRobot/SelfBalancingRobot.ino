@@ -1,3 +1,9 @@
+    ////////////////////////////////////////////////////////
+   //          Arduino Self-Balancing Robot              //             
+  //                By Arnov Sharma - 2021              //
+ //        Tech Nuttiez Magazine - Pre-Launch Issue    //
+////////////////////////////////////////////////////////
+
 #include <PID_v1.h>
 #include <LMotorController.h>
 #include "I2Cdev.h"

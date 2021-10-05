@@ -1,6 +1,7 @@
-   ////////////////////////////////////////////////////////
-  //          Arduino Obstacle Avoiding Robot v2.0      //             
- //            By Aarav Garg - 2021                    //
+    ////////////////////////////////////////////////////////
+   //          Arduino Obstacle Avoiding Robot           //             
+  //                By Aarav Garg - 2021                //
+ //        Tech Nuttiez Magazine - Pre-Launch Issue    //
 ////////////////////////////////////////////////////////
 
 //including the libraries
